@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SEED_SDET_COURSE_AUTOMATION_TESTING_PROJECT_TRICENTIS_VEHICLE_INSURANCE_PROJECT/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
